@@ -57,9 +57,9 @@ font-size:14px;
 
 /* =============================== header ===================================== */
 .header{
-background: url(../img/myBackground.jpg)no-repeat center center fixed;
+background: url(../img/myBackground.jpg);
 
- background-size: cover;
+  background-size: cover;
   height: 100%;
   overflow: hidden;
 }
