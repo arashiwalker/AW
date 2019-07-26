@@ -64,6 +64,9 @@ background: url(../img/myBackground.jpg) no-repeat center fixed;
 background-size: cover;
 filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='.myBackground.jpg', sizingMethod='scale');
 -ms-filter: "progid:DXImageTransform.Microsoft.AlphaImageLoader(src='myBackground.jpg', sizingMethod='scale')";
+width: auto ;
+  max-width: 100% ;
+  height: auto ;
 }
 /* slider */
 
