@@ -64,9 +64,6 @@ background: url(../img/myBackground.jpg) no-repeat center fixed;
 background-size: cover;
 filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='.myBackground.jpg', sizingMethod='scale');
 -ms-filter: "progid:DXImageTransform.Microsoft.AlphaImageLoader(src='myBackground.jpg', sizingMethod='scale')";
-width: auto ;
-  max-width: 100% ;
-  height: auto ;
 }
 /* slider */
 
@@ -685,6 +682,15 @@ text-align:center;
 .about-content p{
 text-align:left;
 }
+.header{
+background: url(../img/myBackground.jpg) no-repeat center fixed;
+    -webkit-background-size: cover;
+-moz-background-size: cover;
+-o-background-size: cover;
+background-size: cover;
+filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='.myBackground.jpg', sizingMethod='scale');
+-ms-filter: "progid:DXImageTransform.Microsoft.AlphaImageLoader(src='myBackground.jpg', sizingMethod='scale')";
+}
 }
 @media screen and (min-width:768px) and (max-width: 991px){
 .link-attr a {
@@ -695,14 +701,41 @@ padding: 5px 10px;
 .link-attr a i {
 font-size: 12px;
 }
+.header{
+background: url(../img/myBackground.jpg) no-repeat center fixed;
+    -webkit-background-size: cover;
+-moz-background-size: cover;
+-o-background-size: cover;
+background-size: cover;
+filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='.myBackground.jpg', sizingMethod='scale');
+-ms-filter: "progid:DXImageTransform.Microsoft.AlphaImageLoader(src='myBackground.jpg', sizingMethod='scale')";
+}
 }
 @media (min-width: 768px){
 .navbar-nav {
 float: none;}
+.header{
+background: url(../img/myBackground.jpg) no-repeat center fixed;
+    -webkit-background-size: cover;
+-moz-background-size: cover;
+-o-background-size: cover;
+background-size: cover;
+filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='.myBackground.jpg', sizingMethod='scale');
+-ms-filter: "progid:DXImageTransform.Microsoft.AlphaImageLoader(src='myBackground.jpg', sizingMethod='scale')";
+}
 }
 @media screen and (min-width:768px) and (max-width: 1199px){
 .folio-caption p{
 font-size:12px;
+}
+.header{
+background: url(../img/myBackground.jpg) no-repeat center fixed;
+    -webkit-background-size: cover;
+-moz-background-size: cover;
+-o-background-size: cover;
+background-size: cover;
+filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='.myBackground.jpg', sizingMethod='scale');
+-ms-filter: "progid:DXImageTransform.Microsoft.AlphaImageLoader(src='myBackground.jpg', sizingMethod='scale')";
 }
 }
 @media screen and (min-width:240px) and (max-width: 767px){
@@ -729,6 +762,15 @@ float:none !important;
 .navbar-toggle {
 margin-top: 25px;
 }
+.header{
+background: url(../img/myBackground.jpg) no-repeat center fixed;
+    -webkit-background-size: cover;
+-moz-background-size: cover;
+-o-background-size: cover;
+background-size: cover;
+filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='.myBackground.jpg', sizingMethod='scale');
+-ms-filter: "progid:DXImageTransform.Microsoft.AlphaImageLoader(src='myBackground.jpg', sizingMethod='scale')";
+}
 
 }
 @media screen and (min-width:240px) and (max-width: 480px){
@@ -742,6 +784,15 @@ padding: 5px 10px;
 }
 .link-attr a i {
 font-size: 12px;
+}
+.header{
+background: url(../img/myBackground.jpg) no-repeat center fixed;
+    -webkit-background-size: cover;
+-moz-background-size: cover;
+-o-background-size: cover;
+background-size: cover;
+filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='.myBackground.jpg', sizingMethod='scale');
+-ms-filter: "progid:DXImageTransform.Microsoft.AlphaImageLoader(src='myBackground.jpg', sizingMethod='scale')";
 }
 }
 
@@ -761,6 +812,15 @@ padding:8px 14px;
 
 .title-page h2{
 font-size:24px;
+}
+.header{
+background: url(../img/myBackground.jpg) no-repeat center fixed;
+    -webkit-background-size: cover;
+-moz-background-size: cover;
+-o-background-size: cover;
+background-size: cover;
+filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='.myBackground.jpg', sizingMethod='scale');
+-ms-filter: "progid:DXImageTransform.Microsoft.AlphaImageLoader(src='myBackground.jpg', sizingMethod='scale')";
 }
 }
 
@@ -785,6 +845,15 @@ padding:8px 14px;
 .title-page h2{
 font-size:18px;
 }
+.header{
+background: url(../img/myBackground.jpg) no-repeat center fixed;
+    -webkit-background-size: cover;
+-moz-background-size: cover;
+-o-background-size: cover;
+background-size: cover;
+filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='.myBackground.jpg', sizingMethod='scale');
+-ms-filter: "progid:DXImageTransform.Microsoft.AlphaImageLoader(src='myBackground.jpg', sizingMethod='scale')";
+}
 }
 @media screen and (min-width:240px) and (max-width: 480px){
 .logo img{
@@ -803,6 +872,15 @@ padding:6px 14px;
 .title-page h2{
 font-size:24px;
 }
+.header{
+background: url(../img/myBackground.jpg) no-repeat center fixed;
+    -webkit-background-size: cover;
+-moz-background-size: cover;
+-o-background-size: cover;
+background-size: cover;
+filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='.myBackground.jpg', sizingMethod='scale');
+-ms-filter: "progid:DXImageTransform.Microsoft.AlphaImageLoader(src='myBackground.jpg', sizingMethod='scale')";
+}
 }
 @media screen and (max-width: 767px) and (min-width: 240px){
 .navbar-toggle {
@@ -811,5 +889,14 @@ margin-top: 10px;
 .avatar{
      margin:0 auto;   
     }
+.header{
+background: url(../img/myBackground.jpg) no-repeat center fixed;
+    -webkit-background-size: cover;
+-moz-background-size: cover;
+-o-background-size: cover;
+background-size: cover;
+filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='.myBackground.jpg', sizingMethod='scale');
+-ms-filter: "progid:DXImageTransform.Microsoft.AlphaImageLoader(src='myBackground.jpg', sizingMethod='scale')";
+}
 
 }
