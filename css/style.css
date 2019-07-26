@@ -57,11 +57,13 @@ font-size:14px;
 
 /* =============================== header ===================================== */
 .header{
-background: url(../img/myBackground.jpg);
-
-  background-size: cover;
-  height: 100%;
-  overflow: hidden;
+background: url(../img/myBackground.jpg)no-repeat center center fixed;
+-webkit-background-size: cover;
+-moz-background-size: cover;
+-o-background-size: cover;
+background-size: cover;
+filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='.myBackground.jpg', sizingMethod='scale');
+-ms-filter: "progid:DXImageTransform.Microsoft.AlphaImageLoader(src='myBackground.jpg', sizingMethod='scale')";
 }
 /* slider */
 
